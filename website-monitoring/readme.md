@@ -36,7 +36,7 @@ git commit -m "Removed temporary files"
 git checkout main
 git merge cleanup-branch
 
-git branch -d cleanup-branch
+git branch -d temp
 
 git log --oneline --graph
 ```
