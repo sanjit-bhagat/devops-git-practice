@@ -1,0 +1,4 @@
+this is jenkinsfile file 
+pipeline {}
+agent any
+All data is added in jenkins file
